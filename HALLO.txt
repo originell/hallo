@@ -1,3 +1,5 @@
 Hallo zu unserem GIT-Repository!
 
 GIT ist ein DVCS!
+
+NEIN! DAS STIMMT JA GARNICHT!
