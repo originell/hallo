@@ -1,2 +1,3 @@
-Hallo und willkommen zu unserem GIT-Repository!
+Hallo zu unserem GIT-Repository!
 
+GIT ist ein DVCS!
